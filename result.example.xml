@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<root>
+  <viewfolder path="40" name="Строительство (основные объекты)">
+    <viewfolder path="40-01" name="Земляные работы">
+      <viewfolder path="40-01-01" name="Земляные работы, жилой дом">
+        <viewfolder path="40-01-01-01" name="Разработка и перемещение грунта"/>
+        <viewfolder path="40-01-01-02" name="Обратная засыпка"/>
+        <viewfolder path="40-01-01-03" name="Вывоз грунта"/>
+      </viewfolder>
+      <viewfolder path="40-01-02" name="Земляные работы, паркинг">
+        <viewfolder path="40-01-02-01" name="Разработка и перемещение грунта"/>
+        <viewfolder path="40-01-02-02" name="Обратная засыпка"/>
+        <viewfolder path="40-01-02-03" name="Вывоз грунта"/>
+      </viewfolder>
+    </viewfolder>
+    <viewfolder path="40-02" name="Устройство конструкций подземной части">
+      <viewfolder path="40-02-01" name="Устройство свайного поля и шпунтов">
+        <viewfolder path="40-02-01-01" name="Устройство свайного поля, жилой дом"/>
+        <viewfolder path="40-02-01-01" name="Сплошные ж/б свай (сечение, длинна)"/>
+        <viewfolder path="40-02-01-02" name="Устройство свайного поля, паркинг"/>
+        <viewfolder path="40-02-01-02" name="Сплошные ж/б свай (сечение, длинна)"/>
+        <viewfolder path="40-02-01-03" name="Устройство шпунтового ограждения"/>
+        <viewfolder path="40-02-01-03" name="Труба (диаметр, длинна)"/>
+        <viewfolder path="40-02-01-03" name="Швеллер"/>
+        <viewfolder path="40-02-01-03" name="Лист"/>
+        <viewfolder path="40-02-01-03" name="Забирка из доски (толщина)"/>
+      </viewfolder>
+      <viewfolder path="40-02-02" name="Фундаменты: стены в грунте, перекрытия, приямки"/>
+    </viewfolder>
+  </viewfolder>
+</root>
